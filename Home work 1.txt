@@ -1,0 +1,6 @@
+START 
+scanner ... 
+sout ( " take 3 nummber " ) ;
+a = 1num + 2numm + 3 num ;  
+sout ( a ) ; 
+END 
